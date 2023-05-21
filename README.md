@@ -1,2 +1,2 @@
 # Python
- Aulas, Exercícios e Projetos em Python estaram neste repositório!
+ Aulas, Exercícios e Projetos em Python estaram neste repositório!!
